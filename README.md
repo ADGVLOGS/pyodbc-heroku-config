@@ -31,8 +31,18 @@ if you see Connection Failed - Check your connection string and Database else, i
 
 ![image](https://user-images.githubusercontent.com/45560312/130338748-f1c2ed91-d21f-4e8a-83bd-d7bbaf42c191.png)
 
-#### Build your App and enjoy
 
+* If you want to copy and paste
+````
+https://github.com/heroku/heroku-buildpack-apt.git
+https://github.com/heroku/heroku-buildpack-python.git
+https://github.com/matt-bertoncello/python-pyodbc-buildpack.git
+heroku/python
+````
+
+#### Build your App and happy coding.
+
+### Guide crafted with <3 from ADG
 
 ### Author: Ashlin Darius Govindasamy 
 #### ADGSTUDIOS : https://adgstudios.co.za
