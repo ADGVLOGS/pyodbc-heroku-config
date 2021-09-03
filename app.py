@@ -63,7 +63,7 @@ def TestConnection():
     bValid = False
     db = sqlserver()
     data = db.GetRecordsOfColumn('EXEC sp_helpdb','name')
-    if data == None:
+    if data is None:
             bValid = False
     else:
             bValid = True
